@@ -29,7 +29,7 @@ TechBook-Store/
 │   ├── lib/                          # Utility helpers
 │   ├── public/                       # Static files (icons, images)
 │   └── README.md
-
+```
 ---
 
 **⚙️ Installation & Setup**
