@@ -46,7 +46,7 @@ npm run dev
 
 ---
 
-**🧩 Services Overview**
+## **🧩 Services Overview**
 🔹 DataService (src/app/services/data.service.ts)
 
 Manages the bookstore logic, including cart, favorites, mode settings, and book retrieval.
@@ -73,7 +73,8 @@ API integration with IT Book Store API
 
 ---
 
-**🧰 Tech Stack**
+## **🧰 Tech Stack**
+
 Next js 
 
 TypeScript
@@ -92,7 +93,7 @@ ITBook Store API
 
 --- 
 
-**👨‍💻 Developer**
+## **👨‍💻 Developer**
 
 Ahmed Hamed
 Frontend Developer specializing in Angular & Next js 
